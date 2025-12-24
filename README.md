@@ -2,8 +2,9 @@
 ---
 
 ## About me
-- Lead Teaching Assistant Java I & Java II
-- Wright State University 2026
+- Ex Lead Teaching Assistant Java I & Java II
+- Raider Immersion Program via Booz Allen
+- Wright State University Fall 2026
 
 Feel free to reach out and connect.
 
@@ -21,18 +22,21 @@ Feel free to reach out and connect.
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](angular.dev)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 
 ---
 
 ## Academic Coursework
 
 #### Web Development
- - Built websites using HTML, CSS, and JS
+ - Built store front using HTML, Tailwindcss, and vanilla Javascript
 
- #### Mobile Development
-  - Jetpack Compose and Kotlin
-
-### 
+#### Special Topics 
+- Built Karto using Angular, Spring Boot, MariaDB
+- [Overview Repository](https://github.com/Joshua-Wise78/cs4900-karto)
+- [Overview of UI Repository](https://github.com/Joshua-Wise78/cs4900-ui-karto)
+- [Overview of Backend Repository](https://github.com/Joshua-Wise78/cs4900-api-karto)
 
 ## How to contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()  
