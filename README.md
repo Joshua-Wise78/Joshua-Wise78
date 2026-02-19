@@ -1,9 +1,9 @@
 # Hello! I'm Joshua Wise
 ---
 
-## About me
+## 🤓 About me
 - Ex Lead Teaching Assistant Java I & Java II
-- Raider Immersion Program via Booz Allen
+- Raider Immersion Program w/ Booz Allen Hamiltion
 - Wright State University Fall 2026
 
 Feel free to reach out and connect.
@@ -18,7 +18,7 @@ Feel free to reach out and connect.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-## Tools and Frameworks
+## 🧰 Tools and Frameworks
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
@@ -27,16 +27,36 @@ Feel free to reach out and connect.
 
 ---
 
-## Academic Coursework
+## 🏫 Academic Coursework
 
-#### Web Development
- - Built store front using HTML, Tailwindcss, and vanilla Javascript
+#### Intro To Software
+- Built a cooking app, using Nextjs, FastAPI, MariaDB
+- Check back later for repos
 
 #### Special Topics 
 - Built Karto using Angular, Spring Boot, MariaDB
 - [Overview Repository](https://github.com/Joshua-Wise78/cs4900-karto)
 - [Overview of UI Repository](https://github.com/Joshua-Wise78/cs4900-ui-karto)
 - [Overview of Backend Repository](https://github.com/Joshua-Wise78/cs4900-api-karto)
+
+---
+
+## ⚙️ Currently Working On
+
+#### Box-Notes (WIP)
+- The self-hosted note taking app powered by Markdown
+- Using React, FastAPI, Docker, PostgreSQL
+- [Box-Notes Repository](https://github.com/Joshua-Wise78/Box-Notes)
+
+#### Karto 2.0 (WIP)
+- Rebuiling the Car maintenance application using FastAPI, React & MariaDB
+- [Karto Backend Repository](https://github.com/orgs/kurumatomo/karto-backend)
+- [Karto Frontend Repository](https://github.com/orgs/kurumatomo/karto-frontend)
+
+#### 🤖 WiseBot
+- Discord bot built in python to manage my personal homeserver
+- Manages Immich to allow Uploads, Retrieval of assets stored
+- Manages Fandom to allow for stored sites to retrieve sub-links of specifc pages.
 
 ## How to contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()  
