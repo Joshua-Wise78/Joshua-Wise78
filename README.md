@@ -48,15 +48,15 @@ Feel free to reach out and connect.
 - Using React, FastAPI, Docker, PostgreSQL
 - [Box-Notes Repository](https://github.com/Joshua-Wise78/Box-Notes)
 
-#### Karto 2.0 (WIP)
-- Rebuiling the Car maintenance application using FastAPI, React & MariaDB
-- [Karto Backend Repository](https://github.com/orgs/kurumatomo/karto-backend)
-- [Karto Frontend Repository](https://github.com/orgs/kurumatomo/karto-frontend)
+#### Route-88 (Early Prototype)
+- Self-hosted application using Ohgo's API for webhook notifications
+- [Route-88 Repository](https://github.com/Joshua-Wise78/Route-88)
 
 #### 🤖 WiseBot
 - Discord bot built in python to manage my personal homeserver
 - Manages Immich to allow Uploads, Retrieval of assets stored
-- Manages Fandom to allow for stored sites to retrieve sub-links of specifc pages.
+- Manages Paperless-ngx allowing document storage & retrieval
+- [WiseBot Repository](https://github.com/Joshua-Wise78/WiseBot)
 
 ## How to contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()  
