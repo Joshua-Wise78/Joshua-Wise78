@@ -6,7 +6,7 @@
 - 3D Printing, Home labs, hiking & traveling.
 - Wright State University Fall 2026
 
-## My Professional Experiences
+### My Professional Experiences
 - Ex Lead Teaching Assistant Java I & II
 - Raider Immersion Program
   - Contracting w/
@@ -15,8 +15,6 @@
 - Tenet3 Solutions Intern
 
 Feel free to reach out and connect.
-
----
 
 ## Languages
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
